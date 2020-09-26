@@ -1,0 +1,20 @@
+.blogauthor::after {
+    content: "Posted by ArcaneCiCi";
+  }
+
+.blogtitle::after {
+    content: "Huge Updates";
+}
+
+.blogcontent::after {
+    font-weight: bold;
+    content: "Welcome to the new launcher for Aero Client! This launcher has brought lots of new things such as an updated anticheat, and saving of your settings so you don't have to set them all the time! Aero Client has seen some big updates in the past few weeks, and in celebration of the new launcher release, we're almost ready to start doing some public beta testing for Aero Client's custom 1.7.10! This version will include different things such as brand new cosmetics, mods, and even client bans! We hope you enjoy the new launcher! Don't cheat!";
+}
+
+.versiontext::after {
+    content: "Powered by CiCi Games LLC • 2.1.0"
+}
+
+.launcher-version::after {
+ content: "v2.1.0"
+}
